@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hamza Louis
-- 👀 I’m interested in Cloud Computing , Linux , DevOps , Python , and the automation tools.
+- 👀 I’m interested in Cloud Computing , Linux , DevOps , Python , Docker , Kubernetes , and other Automation Tools.
 - 🌱 I’m currently learning AWS Cloud Computing
 - 📫 You can reach me via the email < hnlouism@outlook.com >
 
